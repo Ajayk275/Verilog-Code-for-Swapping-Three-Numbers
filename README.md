@@ -101,7 +101,7 @@ c<=a;
 end
 endmodule
 ```
-
+ 
 Output
 
 Blocking and Non-Blocking using input and output variable:
