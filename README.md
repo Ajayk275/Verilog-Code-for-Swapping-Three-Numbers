@@ -92,7 +92,7 @@ initial
   a=4'd8;b=4'd7;c=4'd6;
   end
 always@(*)
-begin
+begin 
 
 a<=b;
 b<=c;
